@@ -1,0 +1,70 @@
+{
+    "skills": [
+      {
+        "image": "img/skills-icons/html-5.png",
+        "alt": "Imagen de HTML",
+        "title": "HTML"
+      },
+      {
+        "image": "img/skills-icons/css-3.png",
+        "alt": "Imagen de CSS",
+        "title": "CSS"
+      },
+      {
+        "image": "img/skills-icons/bootstrap.png",
+        "alt": "Imagen de Bootstrap",
+        "title": "Bootstrap"
+      },
+      {
+        "image": "img/skills-icons/mongodb.svg",
+        "alt": "Imagen de MongoDB",
+        "title": "MongoDB"
+      },
+      {
+        "image": "img/skills-icons/php.png",
+        "alt": "Imagen de PHP",
+        "title": "PHP"
+      },
+      {
+        "image": "img/skills-icons/wordpress.png",
+        "alt": "Imagen de Wordpress",
+        "title": "Wordpress"
+      },
+      {
+        "image": "img/skills-icons/java.png",
+        "alt": "Imagen de Java",
+        "title": "Java"
+      },
+      {
+        "image": "img/skills-icons/fiori.png",
+        "alt": "Imagen de Fiori SAP",
+        "title": "Fiori SAP"
+      },
+      {
+        "image": "img/skills-icons/sql-server.png",
+        "alt": "Imagen de SQL",
+        "title": "SQL"
+      },
+      {
+        "image": "img/skills-icons/js.png",
+        "alt": "Imagen de Javascript",
+        "title": "Javascript"
+      },
+      {
+        "image": "img/skills-icons/react.svg",
+        "alt": "Imagen de React",
+        "title": "React"
+      },
+      {
+        "image": "img/skills-icons/github.png",
+        "alt": "Imagen de Github",
+        "title": "Git/Github"
+      },
+      {
+        "image": "img/skills-icons/mysql.png",
+        "alt": "Imagen de MySQL",
+        "title": "MySQL"
+      }
+    ]
+  }
+  

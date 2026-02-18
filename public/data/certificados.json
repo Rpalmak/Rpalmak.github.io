@@ -1,0 +1,125 @@
+{
+    "certificates": [
+      {
+        "category": "categoria1",
+        "image": "img/certificados/meta-react.png",
+        "alt": "Certificado de curso de React de Meta"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/meta.png",
+        "alt": "Certificado de curso de Meta"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/microsoft.png",
+        "alt": "Certificado de curso de Microsoft"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/university-of-london-introduction.png",
+        "alt": "Certificado de curso de University of London"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/CertificadoDeFinalizacion_React esencial-1.png",
+        "alt": "Certificado de curso de React 2023 por Linkedin"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/CertificadoDeFinalizacion_React esencial 2019-1.png",
+        "alt": "Certificado de curso de React de 2019 por Linkedin"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/api-servicios-web.png",
+        "alt": "Certificado de API Servicios Web de Linkedin Learning"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/wordpress.png",
+        "alt": "Certificado de Wordpress de Linkedin Learning"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/fundamentos-esenciales.png",
+        "alt": "Certificado de Fundamentos Esenciales de la programación de Linkedin Learning"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/github.png",
+        "alt": "Certificado de Github de Linkedin Learning"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/javascript.png",
+        "alt": "Certificado de Javascript Esencial de Linkedin Learning"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/nodejs.png",
+        "alt": "Certificado de NodeJS de Linkedin Learning"
+      },
+      {
+        "category": "categoria1",
+        "image": "img/certificados/php-esencial.png",
+        "alt": "Certificado de PHP Esencial de Linkedin Learning"
+      },
+      {
+        "category": "categoria2",
+        "image": "img/certificados/titulo.png",
+        "alt": "Titulo Universitario Inacap Ingeniero Informático"
+      },
+      {
+        "category": "categoria3",
+        "image": "img/certificados/EFSET.png",
+        "alt": "Certificado de EFSET Proficient C2"
+      },
+      {
+        "category": "categoria3",
+        "image": "img/certificados/tis.png",
+        "alt": "Certificado de Inglés de TIS"
+      },
+      {
+        "category": "categoria3",
+        "image": "img/certificados/SAP-FIORI.png",
+        "alt": "Certificado de SAP Fiori Developer"
+      },
+      {
+        "category": "categoria3",
+        "image": "img/certificados/SAP_LCNC.png",
+        "alt": "Certificado de SAP Low Code No Code"
+      },
+      {
+        "category": "categoria3",
+        "image": "img/certificados/tricentis-tosca.jpg",
+        "alt": "Certificado de Tricentis Tosca"
+      },
+      {
+        "category": "categoria4",
+        "image": "img/certificados/desafiolatam1.png",
+        "alt": "Certificado de Introducción al desarrollo Web por Desafío Latam"
+      },
+      {
+        "category": "categoria4",
+        "image": "img/certificados/desafiolatam2.png",
+        "alt": "Certificado de CSS Avanzado por Desafío Latam"
+      },
+      {
+        "category": "categoria4",
+        "image": "img/certificados/desafiolatam3.png",
+        "alt": "Certificado de Javascript para la Web por Desafío Latam"
+      },
+      {
+        "category": "categoria4",
+        "image": "img/certificados/desafiolatam4.png",
+        "alt": "Certificado de React I por Desafío Latam"
+      },
+      {
+        "category": "categoria4",
+        "image": "img/certificados/desafiolatam5.png",
+        "alt": "Certificado de React II por Desafío Latam"
+      }
+    ]
+  }
+  
