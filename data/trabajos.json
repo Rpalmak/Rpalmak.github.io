@@ -1,95 +1,165 @@
-{
-    "portfolio": [
-      {
-        "category": "first",
-        "image": "img/portafolio/contador-virtual_egresos.php.png",
-        "title": "Contador Virtual - Egresos"
-      },
-      {
-        "category": "first",
-        "image": "img/portafolio/contador-virtual_ingresos.php.png",
-        "title": "Contador Virtual - Ingresos"
-      },
-      {
-        "category": "fourth",
-        "image": "img/portafolio/ipsenjohnsen.png",
-        "title": "Sitio Web para Abogada"
-      },
-      {
-        "category": "second",
-        "image": "img/portafolio/thornpixelshop.com.png",
-        "title": "Sitio Web Wordpress - Thorn Pixel Shop"
-      },
-      {
-        "category": "first",
-        "image": "img/portafolio/planificador-de-comidas-mesa.png",
-        "title": "Planificador de Comidas - Mesa"
-      },
-      {
-        "category": "first",
-        "image": "img/portafolio/planificador-de-comidas-plan.png",
-        "title": "Planificador de Comidas - Plan"
-      },
-      {
-        "category": "third",
-        "image": "img/portafolio/Tesis-categorias.png",
-        "title": "Tesis - Categorías"
-      },
-      {
-        "category": "third",
-        "image": "img/portafolio/Tesis-compras.png",
-        "title": "Tesis - Compras"
-      },
-      {
-        "category": "third",
-        "image": "img/portafolio/Tesis-info.png",
-        "title": "Tesis - Panel"
-      },
-      {
-        "category": "third",
-        "image": "img/portafolio/Tesis-sesiones.png",
-        "title": "Tesis - Sesiones de Usuario"
-      },
-      {
-        "category": "third",
-        "image": "img/portafolio/Tesis-stock.png",
-        "title": "Tesis - Stock"
-      },
-      {
-        "category": "fourth",
-        "image": "img/portafolio/profesional/reciclajemundosur.cl_about.png",
-        "title": "Sitio Web para Reciclaje Mundo Sur - Acerca de"
-      },
-      {
-        "category": "fourth",
-        "image": "img/portafolio/profesional/reciclajemundosur.cl_Clientes.png",
-        "title": "Sitio Web para Reciclaje Mundo Sur - Clientes"
-      },
-      {
-        "category": "fourth",
-        "image": "img/portafolio/profesional/reciclajemundosur.cl_Portfolio.png",
-        "title": "Sitio Web para Reciclaje Mundo Sur - Portfolio"
-      },
-      {
-        "category": "fourth",
-        "image": "img/portafolio/profesional/logisticayrepresentacioninternacional.com.png",
-        "title": "Sitio Web para Logística y Representación Internacional"
-      },
-      {
-        "category": "react1",
-        "image": "img/portafolio/React/pizza-shop/pizzashop-main.png",
-        "title": "Proyecto de React de Pizzeria - vista general de todas las pizzas"
-      },
-      {
-        "category": "react1",
-        "image": "img/portafolio/React/pizza-shop/pizzashop-details.png",
-        "title": "Proyecto de React de Pizzeria con carrito de productos"
-      },
-      {
-        "category": "react1",
-        "image": "img/portafolio/React/pizza-shop/pizzashop-cart.png",
-        "title": "Proyecto de React de Pizzeria con carrito de productos"
-      }
-    ]
-  }
-  
+﻿{
+    "portfolio":  [
+                      {
+                          "category":  "first",
+                          "image":  "img/portafolio/contador-virtual_egresos.php.png",
+                          "title":  "Contador Virtual - Egresos",
+                          "year":  "2022",
+                          "stack":  "PHP | JavaScript | MySQL"
+                      },
+                      {
+                          "category":  "first",
+                          "image":  "img/portafolio/contador-virtual_ingresos.php.png",
+                          "title":  "Contador Virtual - Ingresos",
+                          "year":  "2022",
+                          "stack":  "PHP | JavaScript | MySQL"
+                      },
+                      {
+                          "category":  "fourth",
+                          "image":  "img/portafolio/ipsenjohnsen.png",
+                          "title":  "Sitio Web para Abogada",
+                          "year":  "2019-2024",
+                          "stack":  "HTML | CSS | JavaScript | Bootstrap"
+                      },
+                      {
+                          "category":  "second",
+                          "image":  "img/portafolio/thornpixelshop.com.png",
+                          "title":  "Sitio Web Wordpress - Thorn Pixel Shop",
+                          "year":  "2020",
+                          "stack":  "WordPress | PHP | MySQL"
+                      },
+                      {
+                          "category":  "first",
+                          "image":  "img/portafolio/planificador-de-comidas-mesa.png",
+                          "title":  "Planificador de Comidas - Mesa",
+                          "year":  "2023",
+                          "stack":  "JavaScript | HTML | CSS"
+                      },
+                      {
+                          "category":  "first",
+                          "image":  "img/portafolio/planificador-de-comidas-plan.png",
+                          "title":  "Planificador de Comidas - Plan",
+                          "year":  "2023",
+                          "stack":  "JavaScript | HTML | CSS"
+                      },
+                      {
+                          "category":  "third",
+                          "image":  "img/portafolio/Tesis-categorias.png",
+                          "title":  "Tesis - Categorías",
+                          "year":  "2021",
+                          "stack":  "Java | NetBeans"
+                      },
+                      {
+                          "category":  "third",
+                          "image":  "img/portafolio/Tesis-compras.png",
+                          "title":  "Tesis - Compras",
+                          "year":  "2021",
+                          "stack":  "Java | NetBeans"
+                      },
+                      {
+                          "category":  "third",
+                          "image":  "img/portafolio/Tesis-info.png",
+                          "title":  "Tesis - Panel",
+                          "year":  "2021",
+                          "stack":  "Java | NetBeans"
+                      },
+                      {
+                          "category":  "third",
+                          "image":  "img/portafolio/Tesis-sesiones.png",
+                          "title":  "Tesis - Sesiones de Usuario",
+                          "year":  "2021",
+                          "stack":  "Java | NetBeans"
+                      },
+                      {
+                          "category":  "third",
+                          "image":  "img/portafolio/Tesis-stock.png",
+                          "title":  "Tesis - Stock",
+                          "year":  "2021",
+                          "stack":  "Java | NetBeans"
+                      },
+                      {
+                          "category":  "fourth",
+                          "image":  "img/portafolio/profesional/reciclajemundosur.cl_about.png",
+                          "title":  "Sitio Web para Reciclaje Mundo Sur - Acerca de",
+                          "year":  "2019-2024",
+                          "stack":  "HTML | CSS | JavaScript | Bootstrap"
+                      },
+                      {
+                          "category":  "fourth",
+                          "image":  "img/portafolio/profesional/reciclajemundosur.cl_Clientes.png",
+                          "title":  "Sitio Web para Reciclaje Mundo Sur - Clientes",
+                          "year":  "2019-2024",
+                          "stack":  "HTML | CSS | JavaScript | Bootstrap"
+                      },
+                      {
+                          "category":  "fourth",
+                          "image":  "img/portafolio/profesional/reciclajemundosur.cl_Portfolio.png",
+                          "title":  "Sitio Web para Reciclaje Mundo Sur - Portfolio",
+                          "year":  "2019-2024",
+                          "stack":  "HTML | CSS | JavaScript | Bootstrap"
+                      },
+                      {
+                          "category":  "fourth",
+                          "image":  "img/portafolio/profesional/logisticayrepresentacioninternacional.com.png",
+                          "title":  "Sitio Web para Logística y Representación Internacional",
+                          "year":  "2019-2024",
+                          "stack":  "HTML | CSS | JavaScript | Bootstrap"
+                      },
+                      {
+                          "category":  "react1",
+                          "image":  "img/portafolio/React/pizza-shop/pizzashop-main.png",
+                          "title":  "Proyecto de React de Pizzeria - vista general de todas las pizzas",
+                          "year":  "2024",
+                          "stack":  "React | Node.js | API REST"
+                      },
+                      {
+                          "category":  "react1",
+                          "image":  "img/portafolio/React/pizza-shop/pizzashop-details.png",
+                          "title":  "Proyecto de React de Pizzeria con carrito de productos",
+                          "year":  "2024",
+                          "stack":  "React | Node.js | API REST"
+                      },
+                      {
+                          "category":  "react1",
+                          "image":  "img/portafolio/React/pizza-shop/pizzashop-cart.png",
+                          "title":  "Proyecto de React de Pizzeria con carrito de productos",
+                          "year":  "2024",
+                          "stack":  "React | Node.js | API REST"
+                      },
+                      {
+                          "category":  "game",
+                          "image":  "img/portafolio/JuegoReactNative/WhatsApp Image 2026-02-15 at 23.09.15.jpeg",
+                          "title":  "Juego celular - Pantalla 1",
+                          "year":  "2026",
+                          "stack":  "React Native | Firebase"
+                      },
+                      {
+                          "category":  "game",
+                          "image":  "img/portafolio/JuegoReactNative/WhatsApp Image 2026-02-15 at 23.09.16 (1).jpeg",
+                          "title":  "Juego celular - Pantalla 2",
+                          "year":  "2026",
+                          "stack":  "React Native | Firebase"
+                      },
+                      {
+                          "category":  "game",
+                          "image":  "img/portafolio/JuegoReactNative/WhatsApp Image 2026-02-15 at 23.09.16 (2).jpeg",
+                          "title":  "Juego celular - Pantalla 3",
+                          "year":  "2026",
+                          "stack":  "React Native | Firebase"
+                      },
+                      {
+                          "category":  "game",
+                          "image":  "img/portafolio/JuegoReactNative/WhatsApp Image 2026-02-15 at 23.09.16 (3).jpeg",
+                          "title":  "Juego celular - Pantalla 4",
+                          "year":  "2026",
+                          "stack":  "React Native | Firebase"
+                      },
+                      {
+                          "category":  "game",
+                          "image":  "img/portafolio/JuegoReactNative/WhatsApp Image 2026-02-15 at 23.09.16.jpeg",
+                          "title":  "Juego celular - Pantalla 5",
+                          "year":  "2026",
+                          "stack":  "React Native | Firebase"
+                      }
+                  ]
+}
